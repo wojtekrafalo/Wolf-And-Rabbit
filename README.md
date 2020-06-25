@@ -4,6 +4,6 @@ Simple simulation of a game Wolf-Rabbits, representing Rabbits runnig from a Wol
 Project not finished.
 
 TODO:
-+ change interface of application to be responsive and more user-friendly.
-+ add threads.
++ Change interface of application to be responsive and more user-friendly.
++ Add threads.
 + Add documentation, especially in GitHub repository.
